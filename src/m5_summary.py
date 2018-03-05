@@ -16,6 +16,8 @@ ryan.pen = rg.Pen('red', 12)
 ryan.draw_circle(40)
 ryan.forward(40)
 ryan.draw_circle(40)
+ryan.forward(40)
+
 
 
 window.close_on_mouse_click()
