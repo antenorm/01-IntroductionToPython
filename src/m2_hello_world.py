@@ -85,7 +85,7 @@ print(3607 * 34227)
 
 ###############################################################################
 #
-# TODO: 5.
+# Done: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_hello_world.py) is now displayed in a blue font color.
 #     - Clicking on a different file makes it easier to see
